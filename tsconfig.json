@@ -1,0 +1,14 @@
+  {
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "lib": ["es6"],
+      "types": ["screeps"],
+      "typeRoots": ["node_modules/@types"]
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.js"
+    ]
+  }
+  
